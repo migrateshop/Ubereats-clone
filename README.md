@@ -18,7 +18,7 @@ With the UberEats Clone, you can establish a branded and customized food deliver
 
 This positions your business ahead of the competition and sets the stage for sustained success in the dynamic food delivery industry.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="https://github.com/migrateshop/Ubereats-clone/blob/main/images/ubereats-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ## Benefits Utilizing From UberEats Clone 
 
@@ -51,7 +51,7 @@ When considering [UberEats clone software](https://migrateshop.com/ubereats-clon
 
 These essential features can help differentiate your UberEats clone and provide a competitive edge in the food delivery market.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="https://github.com/migrateshop/Ubereats-clone/blob/main/images/ubereats-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 In conclusion, a [Migrateshop’s](https://migrateshop.com/) [UberEats clone](https://migrateshop.com/ubereats-clone/) must focus on key features that prioritize user experience and efficiency. These include a user-friendly interface, accurate order tracking, secure payment gateways, and robust restaurant management tools. Additionally, integrating advanced features like AI-driven recommendations, real-time delivery tracking, and seamless communication channels can further enhance the platform's appeal. 
